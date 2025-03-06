@@ -1,4 +1,4 @@
-# Jess on Chain
+# Damn Vulnerable DeFi Solutions
 
 Damn Vulnerable DeFi is a collection of smart contract security challengers for developers, security researchers and educators.
 
@@ -8,7 +8,7 @@ I am working through the Damn Vulnerable DeFi V4 series to solve each challenge.
 
 **Challenge 2:** https://medium.com/@jessonchain/its-so-damn-vulnerable-defi-v4-a-guide-to-solve-challenge-2-40591b3271a9
 
-# Damn Vulnerable DeFi
+# Damn Vulnerable DeFi Challenges
 
 Damn Vulnerable DeFi is _the_ smart contract security playground for developers, security researchers and educators.
 
