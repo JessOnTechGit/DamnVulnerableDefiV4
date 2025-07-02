@@ -4,9 +4,11 @@ Damn Vulnerable DeFi is a collection of smart contract security challengers for 
 
 I am working through the Damn Vulnerable DeFi V4 series to solve each challenge. This repo contains the path to my solutions. For a full walk through of each challenge, check out my blog posts at: https://medium.com/@jessonchain
 
-**Challenge 1:** https://medium.com/@jessonchain/its-so-damn-vulnerable-defi-v4-a-guide-to-solve-challenge-1-7fccf9d148ba
+**Challenge 1:** https://medium.com/@jessontech/its-so-damn-vulnerable-defi-v4-a-guide-to-solve-challenge-1-7fccf9d148ba
 
-**Challenge 2:** https://medium.com/@jessonchain/its-so-damn-vulnerable-defi-v4-a-guide-to-solve-challenge-2-40591b3271a9
+**Challenge 2:** https://medium.com/@jessontech/its-so-damn-vulnerable-defi-v4-a-guide-to-solve-challenge-2-40591b3271a9 
+
+**Challenge 3:** https://medium.com/@jessontech/its-so-damn-vulnerable-defi-v4-challenge-3-the-truster-solved-9ce90be3da48
 
 # Damn Vulnerable DeFi Challenges
 
